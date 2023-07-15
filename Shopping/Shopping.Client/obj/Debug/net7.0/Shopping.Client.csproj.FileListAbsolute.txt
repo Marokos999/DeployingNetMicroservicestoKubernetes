@@ -6,6 +6,7 @@ C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.C
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\bin\Debug\net7.0\Shopping.Client.runtimeconfig.json
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\bin\Debug\net7.0\Shopping.Client.dll
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\bin\Debug\net7.0\Shopping.Client.pdb
+C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\Shopping.Client.csproj.AssemblyReference.cache
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\Shopping.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\Shopping.Client.AssemblyInfoInputs.cache
@@ -21,9 +22,8 @@ C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.C
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\scopedcss\bundle\Shopping.Client.styles.css
-C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\scopedcss\projectbundle\Shopping.Client.bundle.scp.css
+C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\Shopping.Client.csproj.CopyComplete
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\Shopping.Client.dll
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\refint\Shopping.Client.dll
 C:\Users\marok\Desktop\DeployingNetMicroservicestoKubernetes\Shopping\Shopping.Client\obj\Debug\net7.0\Shopping.Client.pdb
