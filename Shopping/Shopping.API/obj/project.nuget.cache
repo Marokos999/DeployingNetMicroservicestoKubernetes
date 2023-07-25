@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TiIJ5cim/c9Y4jJ85+MO4CAL8uXqoKs6CITGk2wyy9USuP5AIswNdhV9COWbmHlQzQLW5vHukcqBW80C+X4/vA==",
+  "dgSpecHash": "b5HrVGwFkwSMXQaEypOVMvqKRsug7f3jbwpFeJY3ZT0VqTuZ27eSDAMZUWSG3YySk8StdeVZx+sUnwtwMXjlAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marok\\Desktop\\DeployingNetMicroservicestoKubernetes\\Shopping\\Shopping.API\\Shopping.API.csproj",
+  "projectFilePath": "c:\\Users\\marok\\Desktop\\DeployingNetMicroservicestoKubernetes\\Shopping\\Shopping.API\\Shopping.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marok\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\marok\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
